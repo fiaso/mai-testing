@@ -20,3 +20,6 @@
 
 ## Атрибутно-компонентный анализ. Пересечения
 https://docs.google.com/spreadsheets/d/1fbiv6DRMqCMqo8DX_QbWxsPXlikqrXgq1bI_wZsQYxY/edit?usp=sharing
+
+## Атрибутно-компонентный анализ. Сравнения и тепловая карта
+https://docs.google.com/spreadsheets/d/1Ja4Njo_zNotRq715M61CLmF8GHNZ9ehxUECjLKvjqx0/edit?usp=sharing
